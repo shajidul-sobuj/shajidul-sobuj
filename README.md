@@ -17,6 +17,8 @@ Email Me 👉 ✉️ **shajidul.islam.sobuj@gmail.com** For Collaboration/Proble
 - 📫 **How to reach me:** shajidul.islam.sobuj@gmail.com  
 - 😄 **Pronouns:** Sobuj  
 - ⚡ **Fun fact:** I enjoy solving problems under pressure 🚀
+- - 👨‍💻 All of my projects are available at **[https://shajidul-sobuj.netlify.app/](https://shajidul-sobuj.netlify.app/)**
+
 
 
 ###
@@ -39,6 +41,15 @@ Email Me 👉 ✉️ **shajidul.islam.sobuj@gmail.com** For Collaboration/Proble
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+  <a href="https://kaggle.com/shajidul-sobuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shajidul-sobuj" height="30" width="40" /></a>
+  <a href="https://codechef.com/users/shajidulsobuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="shajidulsobuj" height="30" width="40" /></a>
+  <a href="https://hackerrank.com/shajidul-sobuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shajidul-sobuj" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/shajidul-sobuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shajidul-sobuj" height="30" width="40" /></a>
+  <a href="https://leetcode.com/shajidulsobuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shajidulsobuj" height="30" width="40" /></a>
+
+
+
 </div>
 
 ###
