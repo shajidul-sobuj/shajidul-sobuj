@@ -8,20 +8,6 @@
 
 ###
 
-<br clear="both">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shajidul-sobuj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shajidul-sobuj&theme=dark&hide_border=false)<br/>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shajidul-sobuj.shajidul-sobuj&"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif"  />
 
 ###
@@ -63,6 +49,22 @@
   <a href="https://instagram.com/sajidislam990" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shajidul-sobuj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shajidul-sobuj&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shajidul-sobuj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shajidul-sobuj.shajidul-sobuj&"  />
 </div>
 
 ###
