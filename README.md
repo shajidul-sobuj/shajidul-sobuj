@@ -4,7 +4,20 @@
 
 ###
 
-<h2 align="left">💫 Hi 👋, I'm Kazi Shajidul Islam Sobuj  <br>A Passionate Competitive Programmer</h2>
+<h2 align="left">💫 Hi 👋, I'm Kazi Shajidul Islam Sobuj</h2>
+**A Passionate Competitive Programmer**
+
+Email Me 👉 ✉️ **shajidul.islam.sobuj@gmail.com** For Collaboration/Problem Solving or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Improving my problem-solving skills through Competitive Programming  
+- 🌱 **I’m currently learning:** Data Structures & Algorithms  
+- 👯 **I’m looking to collaborate on:** Competitive Programming, Problem Solving, Practice Contests  
+- 🤔 **I’m looking for help with:** Advanced Algorithms and Optimization Techniques  
+- 💬 **Ask me about:** C++, STL, Algorithms, Competitive Programming  
+- 📫 **How to reach me:** shajidul.islam.sobuj@gmail.com  
+- 😄 **Pronouns:** Sobuj  
+- ⚡ **Fun fact:** I enjoy solving problems under pressure 🚀
+
 
 ###
 
