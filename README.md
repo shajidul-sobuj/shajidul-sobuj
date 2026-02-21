@@ -5,7 +5,7 @@
 ###
 
 <h2 align="left">💫 Hi 👋, I'm Kazi Shajidul Islam Sobuj</h2>
-*A Passionate Competitive Programmer*
+A Passionate Competitive Programmer
 
 Email Me 👉 ✉️ **shajidul.islam.sobuj@gmail.com** For Collaboration/Problem Solving or Anything Else. 😊😊
 
