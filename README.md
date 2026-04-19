@@ -28,6 +28,9 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=shajidul-sobuj&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="shajidul islam sobuj's GitHub Trophies" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -70,6 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <!-- <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" /> -->
 </p>
-
